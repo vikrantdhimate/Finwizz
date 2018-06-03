@@ -334,10 +334,10 @@ visibility: hidden; line-height: 0; height: 0;}*/
   -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease;}
 #navigation li:hover > ul {left: auto;}
 #navigation.align-right li:hover > ul {left: auto; right: 0;}
-#navigation li:hover > ul > li {height: 35px;}
+#navigation li:hover > ul > li {height: 43px;}
 #navigation ul ul ul {margin-left: 100%; top: 0; }
 #navigation.align-right ul ul ul {margin-left: 0; margin-right: 100%; }
-#navigation ul ul li a {border-bottom: 1px solid rgba(150, 150, 150, 0.15); padding: 15px 15px; width: 150px;
+#navigation ul ul li a {border-bottom: 1px solid rgba(150, 150, 150, 0.15); padding: 15px 15px; width: 170px;
   font-size: 13px; text-decoration: none; color: #496077; font-weight: 600; background: #fff; font-weight: 600; 
     text-transform: uppercase;}
 #navigation ul ul li:last-child > a,
@@ -419,7 +419,7 @@ background-size: cover; margin: 0;}
 .breadcrumb{}
 .breadcrumb>.active {}
 /*-------------- slider ------------*/
-.intro-section{background:linear-gradient(rgba(57, 116, 132, 0.7), rgba(57, 116, 132, 0.7), rgba(57, 116, 132, 0.7)),
+.intro-section{background:linear-gradient(rgba(54, 92, 103, 0.7), rgba(57, 116, 132, 0.7), rgba(57, 116, 132, 0.7)),
  url(../images/hero-img.jpg) no-repeat center;  background-size: cover; }
 .intro-caption{color: #fff; padding-top: 150px; padding-bottom: 150px; font-size: 18px;}
 .intro-title{font-size: 60px; color: #fff; line-height: 80px;}
